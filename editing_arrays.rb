@@ -1,7 +1,7 @@
 rainbow_colors = [
-  "yellow",
-  "default",
-  "light_cyan"
+  "red",
+  "light_red",
+  "light_yellow"
 ]
   rainbow_colors[0]="red"
   rainbow_colors[1]="light_red"

@@ -1,11 +1,16 @@
 rainbow_colors = [
-  "red",
-  "light_red",
-  "light_yellow"
+  "yellow",
+  "default",
+  "light_cyan"
 ]
 
 def change_rainbow_colors
-  new["red", "light_red", "light-yellow"]
+  rainbow_colors[0]="yellow"
+  puts rainbow_colors[0]="red"
+  rainbow_colors[1]="yellow"
+  puts rainbow_colors[1]="red"
+  rainbow_colors[2]="yellow"
+  puts rainbow_colors[2]="red"
 end
 
 
